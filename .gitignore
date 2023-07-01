@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.csv
+*.o
+*.pcap
+data/
+csvs/
+
