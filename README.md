@@ -2,9 +2,9 @@
 
 ## Functionality
 ### distribution_generator.y
-Generate wanted distributions
-index is flow size (number of packets), it represents how many packets in this flow
-values is number fo flows, it means how many flows of this flow size
+- Generate wanted distributions
+- index is flow size (number of packets), it represents how many packets in this flow
+- values is number fo flows, it means how many flows of this flow size
 
 ### pcap_generator.cpp, analyzer.ipynb, analyzer.py
 Generate pcaps according to the above distributions
