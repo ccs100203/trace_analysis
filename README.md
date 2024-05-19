@@ -1,6 +1,6 @@
 # Experiments of Master Thesis at NYCU
 
-## Functionality
+## Functionality of Files
 ### distribution_generator.py
 - Generate wanted distributions
 - index is flow size (number of packets), it represents how many packets in this flow
